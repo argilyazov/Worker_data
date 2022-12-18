@@ -1,4 +1,0 @@
-Information about Manager ‘уворова ЂнастасиЯ age: 30 count subordinates: 2
-
-[103] Waiter пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ age: 23 number locker: 60
-[102] Waiter пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ age: 21 number locker: 36
